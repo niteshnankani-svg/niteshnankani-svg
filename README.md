@@ -1,6 +1,8 @@
 # Nitesh Nankani
 
-12 years running an apparel manufacturing business taught me operations, data, and what happens when systems fail at scale. I've spent the last several months building production AI systems — RAG pipelines, voice agents, fine-tuned classifiers, and multi-agent orchestration — and shipping them end to end, from data pipeline to deployed demo.
+**AI Solutions Engineer — 2 years — 7 production systems shipped**
+
+12 years running an apparel manufacturing business taught me operations, data, and what happens when systems fail at scale. Since moving into AI, I've built and shipped production systems end to end — RAG pipelines, voice agents, fine-tuned classifiers, and multi-agent orchestration — from data pipeline to deployed demo.
 
 ---
 
